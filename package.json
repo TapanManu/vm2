@@ -27,6 +27,7 @@
     "node": ">=6.0"
   },
   "scripts": {
+    
     "test": "mocha test",
     "pretest": "eslint ."
   },
